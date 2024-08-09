@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Weather_app/static/css/main.33f5b8b5.css",
+    "main.js": "/Weather_app/static/js/main.1c7c3519.js",
+    "static/js/453.1bef8977.chunk.js": "/Weather_app/static/js/453.1bef8977.chunk.js",
+    "static/media/moisture.svg": "/Weather_app/static/media/moisture.dcc8cf13db94dd04b552acae9078d069.svg",
+    "static/media/Sunny.svg": "/Weather_app/static/media/Sunny.224fff9e99424c32f820e28acd2b1a61.svg",
+    "index.html": "/Weather_app/index.html",
+    "static/media/Drizzle.svg": "/Weather_app/static/media/Drizzle.500342b7eaf97c04d6878fec5f727a36.svg",
+    "static/media/cloud_rain.svg": "/Weather_app/static/media/cloud_rain.a8132123329bf211f6e9abe2389789ff.svg",
+    "static/media/cloud.svg": "/Weather_app/static/media/cloud.b1685bd8e9372bbe56e8a0cf9f33ae82.svg",
+    "static/media/cloud_lightning.svg": "/Weather_app/static/media/cloud_lightning.dacd064629fc475b672d0d347ec691e4.svg",
+    "static/media/wind.svg": "/Weather_app/static/media/wind.f2016eaa6014d22614a88776f3e43f70.svg",
+    "static/media/lightning.svg": "/Weather_app/static/media/lightning.143aea5360820c13ef1daea92b8d9d57.svg",
+    "static/media/search1.svg": "/Weather_app/static/media/search1.582e6fdae2c59f4e7b41bc2c538877cd.svg",
+    "main.33f5b8b5.css.map": "/Weather_app/static/css/main.33f5b8b5.css.map",
+    "main.1c7c3519.js.map": "/Weather_app/static/js/main.1c7c3519.js.map",
+    "453.1bef8977.chunk.js.map": "/Weather_app/static/js/453.1bef8977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f5b8b5.css",
+    "static/js/main.1c7c3519.js"
+  ]
+}
